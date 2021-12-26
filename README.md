@@ -43,7 +43,11 @@ Here are some ideas to get you started:
   <div>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/Express-white?style=flat&logo=Express&logoColor=black" style="height : auto;margin-right : 10px;">
-    <img src="https://img.shields.io/badge/mongoDB-4ea94b?style=flat&logo=MongoDB&logoColor=white" style="height : auto;margin-right : 10px;">  
+    <img src="https://img.shields.io/badge/mongoDB-4ea94b?style=flat&logo=MongoDB&logoColor=white" style="height : auto;margin-right : 10px;">
+  </div>
+  
+  <div>
+    <img src="https://img.shields.io/badge/django-0c4931?style=flat&logo=django&logoColor=white" style="height : auto;margin-right : 10px;">  
     <img src="https://img.shields.io/badge/flask-white?style=flat&logo=flask&logoColor=black" style="height : auto;margin-right : 10px;">  
   </div>
   
