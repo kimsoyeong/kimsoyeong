@@ -51,5 +51,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/flask-white?style=flat&logo=flask&logoColor=black" style="height : auto;margin-right : 10px;">  
   </div>
   
+  <img src="https://img.shields.io/badge/gentoo-b894f7?style=flat&logo=gentoo&logoColor=white" style="height : auto;margin-right : 10px;">  
   
 <div>
