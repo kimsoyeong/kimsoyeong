@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Soyeong Kim.
+
+<div align=left>
+  
+  [![Tistory Badge](http://img.shields.io/badge/-Blog1-white?style=flat&logo=Velog&link=https://soso-cod3v.tistory.com/)](https://soso-cod3v.tistory.com/)
+  [![Github Blog Badge](http://img.shields.io/badge/-Blog2-black?style=flat&logo=github&link=https://kimsoyeong.github.io/)](https://kimsoyeong.github.io/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyeong-kim/)](https://www.linkedin.com/in/soyeong-kim/)
+  
+</div>
 
 <!--
 **kimsoyeong/kimsoyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,21 +22,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- ⚡ Fun
+<!-- [![Soyeong's github stats](https://github-readme-stats.vercel.app/api?username=kimsoyeong)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Soyeong's github stats](https://github-readme-stats.vercel.app/api?username=kimsoyeong)](https://github.com/anuraghazra/github-readme-stats)
+[![Soyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsoyeong&show_icons=true&hide_border=false&title_color=b894f7&icon_color=7e66b6&layout=compact)](https://github.com/kimsoyeong)
 
 
-<div align=center>
-  
-  [![Tistory Badge](http://img.shields.io/badge/-Tistory-white?style=flat&logo=Velog&link=https://soso-cod3v.tistory.com/)](https://soso-cod3v.tistory.com/)
-  [![Github Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat&logo=github&link=https://kimsoyeong.github.io/)](https://kimsoyeong.github.io/)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyeong-kim/)](https://www.linkedin.com/in/soyeong-kim/)
-  
-</div>
 
 <div>
-  <h4>What I can use 🔥</h4>
+  <h4>What I can do 🔥</h4>
   
   <div>
     <img src="https://img.shields.io/badge/Python-377fab?style=flat&logo=python&logoColor=white" style="height : auto;margin-right : 10px;">
