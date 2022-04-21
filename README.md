@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- [![Soyeong's github stats](https://github-readme-stats.vercel.app/api?username=kimsoyeong)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Soyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsoyeong&show_icons=true&hide_border=false&title_color=b894f7&icon_color=7e66b6&layout=compact)](https://github.com/kimsoyeong)
+[![Soyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsoyeong&show_icons=true&hide_border=false&title_color=000000&icon_color=7e66b6&layout=compact)](https://github.com/kimsoyeong)
 
 
 
