@@ -49,6 +49,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Android-white?style=flat&logo=android&logoColor=3ddc84" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/gentoo-b894f7?style=flat&logo=gentoo&logoColor=white" style="height : auto;margin-right : 10px;">  
     <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=Firebase&logoColor=FFCA28" style="height : auto;margin-right : 10px;">  
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" style="height : auto;margin-right : 10px;">
   </div>
   
 <div>
