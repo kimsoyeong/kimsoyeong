@@ -32,10 +32,11 @@ Here are some ideas to get you started:
   <h4>What I can do 🔥</h4>
   
   <div>
+    <img src="https://img.shields.io/badge/Java-white?style=flat&logo=JAVA&logoColor=red" style="height : auto;margin-right : 10px;">  
     <img src="https://img.shields.io/badge/Python-377fab?style=flat&logo=python&logoColor=white" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/Kotlin-7872e3?style=flat&logo=kotlin&logoColor=white" style="height : auto;margin-right : 10px;">
-    <img src="https://img.shields.io/badge/Java-white?style=flat&logo=java&logoColor=red" style="height : auto;margin-right : 10px;">  
     <img src="https://img.shields.io/badge/Javascript-efd81d?style=flat&logo=javascript&logoColor=black" style="height : auto;margin-right : 10px;">
+    <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white" style="height : auto;margin-right : 10px;">  
   </div>
   
   <div>
