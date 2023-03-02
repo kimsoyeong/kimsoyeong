@@ -252,8 +252,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="290" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">대학원생</text>
-    <text x="15" y="50">김소영 입니다.</text>
+    <text x="15" y="27">척척학사 대학원생</text>
+    <text x="15" y="50">김소영 입니다! 👩🏻‍💻</text>
   </g>
 
   <!-- typing 3 -->
@@ -278,7 +278,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">C++, Python, JAVA를 주로 사용하고</text>
-    <text x="15" y="50">앱, 웹, AI 개발에도 관심이 많습니다 :)</text>
+    <text x="15" y="50">앱, 웹, AI 개발에도 관심이 많습니다 :D</text>
   </g>
 
   <!-- typing 4 -->
@@ -327,6 +327,6 @@
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="350" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">멈추지 않는 개발자/연구자가 되고 싶습니다!</text>
-    <text x="15" y="47"> <tspan class="emoji">👻</tspan></text>
+    <text x="15" y="47">화이팅! <tspan class="emoji">🌈</tspan></text>
   </g>
 </svg>
