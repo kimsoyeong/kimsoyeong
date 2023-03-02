@@ -1,13 +1,4 @@
 ### Hi there 👋, I'm Soyeong Kim.
-
-<div align=left>
-  
-  [![Tistory Badge](http://img.shields.io/badge/-Blog1-white?style=flat&logo=Velog&link=https://soso-cod3v.tistory.com/)](https://soso-cod3v.tistory.com/)
-  [![Github Blog Badge](http://img.shields.io/badge/-Blog2-black?style=flat&logo=github&link=https://kimsoyeong.github.io/)](https://kimsoyeong.github.io/)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyeong-kim/)](https://www.linkedin.com/in/soyeong-kim/)
-  
-</div>
-
 <!--
 **kimsoyeong/kimsoyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,10 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
+<div align=center>
+  
+<!-- Message SVG --> 
+![message_svg](https://github.com/kimsoyeong/kimsoyeong/blob/main/message.svg)
+
+<!-- Solved.ac profile -->
+  [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thdud4869)](https://solved.ac/thdud4869)
+<!-- Blog Bages -->
+  [![Tistory Badge](http://img.shields.io/badge/-Tistory-white?style=flat&logo=Velog&link=https://soso-cod3v.tistory.com/)](https://soso-cod3v.tistory.com/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyeong-kim/)](https://www.linkedin.com/in/soyeong-kim/) 
+   <!-- [![Github Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat&logo=github&link=https://kimsoyeong.github.io/)](https://kimsoyeong.github.io/) -->
+  
+</div>
+ 
+
+<!-- Stats -->
+
 <!-- [![Soyeong's github stats](https://github-readme-stats.vercel.app/api?username=kimsoyeong)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Soyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsoyeong&show_icons=true&hide_border=false&title_color=000000&icon_color=7e66b6&layout=compact)](https://github.com/kimsoyeong)
-
+<!-- [![Soyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsoyeong&show_icons=true&hide_border=false&title_color=000000&icon_color=7e66b6&layout=compact)](https://github.com/kimsoyeong) -->
 
 
 <div>
@@ -37,9 +44,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Kotlin-7872e3?style=flat&logo=kotlin&logoColor=white" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/Javascript-efd81d?style=flat&logo=javascript&logoColor=black" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white" style="height : auto;margin-right : 10px;">  
-  </div>
-  
-  <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" style="height : auto; margin-right : 10px;">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/Express-white?style=flat&logo=Express&logoColor=black" style="height : auto;margin-right : 10px;">
