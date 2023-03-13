@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align=center>
   
 <!-- Message SVG --> 
-![message_svg](https://github.com/kimsoyeong/kimsoyeong/blob/main/message.svg)
+<img src="https://github.com/kimsoyeong/kimsoyeong/blob/main/message.svg" width="50%" >
 
 <!-- Solved.ac profile -->
   [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thdud4869)](https://solved.ac/thdud4869)
