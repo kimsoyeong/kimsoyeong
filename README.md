@@ -42,6 +42,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Java-white?style=flat&logo=JAVA&logoColor=red" style="height : auto;margin-right : 10px;">  
     <img src="https://img.shields.io/badge/Python-377fab?style=flat&logo=python&logoColor=white" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/Kotlin-7872e3?style=flat&logo=kotlin&logoColor=white" style="height : auto;margin-right : 10px;">
+    <img src="https://img.shields.io/badge/Typescript-007acc?style=flat&logo=typescript&logoColor=white" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/Javascript-efd81d?style=flat&logo=javascript&logoColor=black" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white" style="height : auto;margin-right : 10px;">  
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" style="height : auto; margin-right : 10px;">
