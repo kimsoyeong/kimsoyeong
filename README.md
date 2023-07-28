@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Soyeong Kim.
+### Hello 👋, I'm Soyeong Kim.
 <!--
 **kimsoyeong/kimsoyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align=center>
   
 <!-- Message SVG --> 
-<img src="https://github.com/kimsoyeong/kimsoyeong/blob/main/message.svg" width="50%" >
+<!-- <img src="https://github.com/kimsoyeong/kimsoyeong/blob/main/message.svg" width="50%" > --> 
 
 <!-- Solved.ac profile -->
   [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thdud4869)](https://solved.ac/thdud4869)
