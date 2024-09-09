@@ -43,28 +43,37 @@ Here are some ideas to get you started:
 
 <div>
   <h4>What I can do 🔥</h4>
-  
+
+  <h45>Languages</h5>
   <div>
-    <img src="https://img.shields.io/badge/Python-377fab?style=flat&logo=python&logoColor=white" style="height : auto;margin-right : 10px;">
-    <img src="https://img.shields.io/badge/Java-white?style=flat&logo=java&logoColor=red" style="height : auto;margin-right : 10px;">  
+    <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" style="height : auto;margin-right : 10px;">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=red" style="height : auto;margin-right : 10px;">  
     <img src="https://img.shields.io/badge/Javascript-efd81d?style=flat&logo=javascript&logoColor=black" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/Kotlin-7872e3?style=flat&logo=kotlin&logoColor=white" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/Typescript-007acc?style=flat&logo=typescript&logoColor=white" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white" style="height : auto;margin-right : 10px;">
-    <img src="https://img.shields.io/badge/MySQL-navy?style=flat&logo=MySQL&logoColor=white" style="height : auto;margin-right : 10px;">
   </div>
+  
+  <h5>Frontend</h5>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" style="height : auto; margin-right : 10px;">
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" style="height : auto; margin-right : 10px;">
+    <img src="https://img.shields.io/badge/Android-white?style=flat&logo=android&logoColor=3ddc84" style="height : auto;margin-right : 10px;">  
+
+
+  </div>
+
+  <h5>Backend</h5>
+  <div>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" style="height : auto;margin-right : 10px;">
     <img src="https://img.shields.io/badge/Express-white?style=flat&logo=Express&logoColor=black" style="height : auto;margin-right : 10px;">
-<!--     <img src="https://img.shields.io/badge/mongoDB-4ea94b?style=flat&logo=MongoDB&logoColor=white" style="height : auto;margin-right : 10px;"> -->
+    <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=Flask&logoColor=white" style="height : auto;margin-right : 10px;">
+    <img src="https://img.shields.io/badge/MySQL-navy?style=flat&logo=MySQL&logoColor=white" style="height : auto;margin-right : 10px;">
   </div>
-  
+
+  <h5>Etc</h5>
   <div>
     <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" style="height : auto;margin-right : 10px;">
-    <img src="https://img.shields.io/badge/Android-white?style=flat&logo=android&logoColor=3ddc84" style="height : auto;margin-right : 10px;">  
     <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=Firebase&logoColor=FFCA28" style="height : auto;margin-right : 10px;">  
   </div>
-  
 <div>
