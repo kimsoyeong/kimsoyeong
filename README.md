@@ -1,4 +1,4 @@
-### Hi there. 👋, I'm Soyeong Kim.
+### 👋
 <!--
 **kimsoyeong/kimsoyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 
 <h4>Interested in 📕</h4>
 
-- Artificial Intelligence
-
-- Data Science
+<!-- - Artificial Intelligence
+- Data Science -->
 
 
 <div>
